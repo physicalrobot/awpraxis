@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Change your thoughts and you change your world
+title: Change your thoughts and you change your world!
 description:
 date: 2019-11-14 15:01:35 +0300
 author: alena

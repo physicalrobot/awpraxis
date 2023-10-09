@@ -18,7 +18,7 @@ This question can, and should, be asked at any stage of an armwrestler's journey
 Armwrestlers are notorious for giving a wide range of answers to this question and while there is, seemingly, a diversity of opinion and ideas, we can extract some common threads that run through the various responses and start to flesh out a complete picture of how to approach our training on and off the table.
 
 
-# Strength Categories of Armwrestling!!!
+# Strength Categories of Armwrestling
 
 So what are these common threads?
 Well, since armwrestling is largely a strength sport (with combat elements), any discussion of how to get stronger should start with an understanding of what our body is actually doing to produce strength on the table.

@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Armrestling Praxis
-logo:  '/images/templogo.png'
+title: Armwrestling Praxis
+logo:  'images/templogo.png'
 description: Mria is a multipurpose blog theme for Jekyll
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -32,7 +32,7 @@ menu__settings:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Armrestling Praxis
+  hero__title: Armwrestling Praxis
   hero__description: Coolass description
   hero__image: '/images/templogo.png'
 

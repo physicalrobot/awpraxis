@@ -50,7 +50,7 @@ author:
 blog__settings:
   enable: true
   blog__title: Latest Posts
-  blog__description: test
+  blog__description: 
 
 
 #-------------------------------

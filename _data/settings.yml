@@ -14,16 +14,21 @@ menu__settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Authors'
-      url: '/authors/'
-    - title: 'Videos'
-      url: '/videos/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
+    - title: 'Articles'
+      url: '/articles/'
+    #- title: 'Videos'
+    #  url: '/videos/'
+    - title: 'About'
+      url: '/about/'
+    - title: 'Contact'
+      url: '/contact/'
+
+    #- title: 'Pages'
+    #  submenu:
+    #  - url: '/about/'
+     #   title: 'About'
+      #- url: '/contact/'
+      #  title: 'Contact'
       #- url: '/elements/'
       #  title: 'Elements'
 
@@ -32,8 +37,8 @@ menu__settings:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Armwrestling Praxis
-  hero__description: Coolass description
+  hero__title: Armwrestling theory, experience, and insights.
+  hero__description: 
   hero__image: '/images/Fist Grips.png'
 
 
@@ -50,13 +55,12 @@ author:
 blog__settings:
   enable: true
   blog__title: Latest Posts
-  blog__description: 
-
+  blog__description:
 
 #-------------------------------
 # Videos Section Settings
 videos__settings:
-  enable: true
+  enable: false
   videos__title: Latest Videos
   videos__description:
 
@@ -64,8 +68,8 @@ videos__settings:
 #-------------------------------
 # Tag Section Settings
 tag__settings:
-  enable: true
-  tag: test # To display the tag section, specify your favorite tag.
+  enable: false
+  tag: lifestyle # To display the tag section, specify your favorite tag.
 
 
 #-------------------------------
@@ -82,8 +86,9 @@ author__section:
 
 #-------------------------------
 # Newsletter Settings
+# Note from Shaildhish - When you have a newsletter, enable: true and change all the other variables
 mailchimp__settings:
-  enable: true
+  enable: false
   mailchimp__title: Get interesting news
   mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
@@ -104,6 +109,7 @@ social:
 #- {icon: "codepen", link: "https://codepen.io"}
 - {icon: "pinterest", link: "https://pinterest.com"}
 - {icon: "vimeo", link: "https://vimeo.com"}
+- {icon: "instagram", link: "https://instagram.com"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -118,8 +124,8 @@ footer__menu__settings:
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Elements'
-      url: '/elements/'
+    #- title: 'Elements'
+    #  url: '/elements/'
 
 
 #-------------------------------

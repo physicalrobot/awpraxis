@@ -2,11 +2,11 @@
 layout: post
 title: Don't be afraid to give up the good to go for the great
 description:
-date: 2019-09-14 15:01:35 +0300
+#date: 2019-09-14 15:01:35 +0300
 author: me
 # image: '/images/16.jpg'
 video_embed: 
-tags: [lifestyle, video]
+#tags: [lifestyle, video]
 tags_color: 'blue'
 ---
 

@@ -1,9 +1,10 @@
 #-------------------------------
 # Site Settings
 title: Armwrestling Praxis
-logo:  'images/mevsisai_authorpic.png'
+logo: /images/mevsisai_authorpic.png
 description: Mria is a multipurpose blog theme for Jekyll
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
 
 
 #-------------------------------
@@ -39,7 +40,7 @@ hero:
   enable: true
   hero__title: Armwrestling theory, experience, and insights.
   hero__description: 
-  hero__image: '/images/mevsisai_authorpic.png'
+  hero__image: /images/mevsisai_authorpic.png
 
 
 #-------------------------------
@@ -80,8 +81,8 @@ author__section:
   author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
-  author__section__big__image: /images/100.jpg
-  author__section__small__image: /images/101.jpg
+  author__section__big__image: 
+  author__section__small__image: 
 
 
 #-------------------------------

@@ -128,8 +128,8 @@
   .author__image {
     position: relative;
     transform: translate(0);
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     margin: 0 auto 32px;
     border-radius: 50%;
     overflow: hidden;
@@ -137,6 +137,7 @@
 
     img {
       position: absolute;
+      //transform: translateX(20px);
       top: 0;
       left: 0;
       width: 100%;

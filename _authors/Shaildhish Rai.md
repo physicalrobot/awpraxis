@@ -1,10 +1,10 @@
 ---
 username: me
 name: Shaildhish Rai 
-image: '/images/Shot by Jackson Ruckar - 71.jpg'
+image: '/images/mevsisai_authorpic.png'
 cover: '/images/subscribe-bg.jpg'
 #location: U.S.A
-website: https://www.google.com
+#website: https://www.google.com
 twitter: https://twitter.com
 facebook: https://www.facebook.com
 instagram: https://www.instagram.com

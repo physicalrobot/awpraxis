@@ -14,7 +14,7 @@ Contrary to its name, armwrestling does not primarily depend on the strength of 
 
 
 
-No doubt the arm – *and even the entire body to a degree* – contributes to the dance that is armwrestling, but professional armwrestlers know that the secret to their success lies elsewhere, and that they must strengthen these other key areas to achieve victory on the table.
+No doubt the arm – *and even the entire body to a degree* – contributes to the dance that is armwrestling, but professional armwrestlers know that the secret to their success lies elsewhere, and that they must strengthen these other key areas to secure advantages on the table.
 
 
 
@@ -28,18 +28,18 @@ No doubt the arm – *and even the entire body to a degree* – contributes to t
 
 We should be more specific.
 
-Hand/wrist strength can manifest in innumerable ways e.g. crushing grip strength, pinching grip strength, hook grip etc., but not all of them are equally important or even applicable for armwrestling. 
+Hand strength can manifest in innumerable ways e.g. crushing grip strength, pinching grip strength, hook grip etc., but not all of them are equally important or even applicable for armwrestling. 
 
-So which hand and wrist movements are most relevant to the activity?
+So which hand movements are most relevant to the activity?
 
-![handgrip types](/images/handgriptypes_940x788.png)
+![handgrip types](/images/commongriptypes.png)
 *Common Grip Variations*
 
 In short, there are three key movements that armwrestlers prioritize above all else. While many argue about the relative importance of these three movements, they are in near-uniform agreement about their primacy regarding armwrestling-specific strengths. These three motions are:
 
-1. Wrist Flexion
-2. Pronation
-3. Radial Deviation
+**1. Wrist Flexion**
+**2. Pronation**
+**3. Radial Deviation**
 
 Let's go into more detail for each of these.
 
@@ -50,7 +50,7 @@ Wrist flexion or “Cupping” is the act of bending one’s wrist so that the p
 
 When you hear armwrestlers talking about their Cup, they are primarily referring to wrist flexion, although a degree of finger flexion plays a supporting role due to the fact that we must actually grip our opponent’s hand while armwrestling. 
 
-![wrist flexion](/images/wristflexion.png)
+![wrist flexion](/images/wrist flexion.png)
 
 Having a strong Cup allows one to "contain" their opponent's hand, thereby placing them in a defensive position where they have less access to their strength and are forced to recruit fewer muscles in the fight. 
 
@@ -73,13 +73,13 @@ The ability to “maintain our pronation” in an armwrestling match **unlocks t
 Although we would ideally want to maintain pronation from a neutral grip towards a fully pronated grip, there are defensive situations when our wrist becomes more supinated when we can still utilize pronation strength (though it is less effective than a more pronated position).
 
 ![coolasspic](/images/Shot by Jackson Ruckar - 13.jpg)
-*Defensive position is depicted here where pronation is less effective since the hand is more supinated. Photo by Jackson Ruckar*
+*Defensive position is depicted here where pronation is less effective since the hand is more supinated. Photo by [Jackson Ruckar](https://jacksonruckar.com/)*
 
 One final point to note is that pronation is the mortal enemy of the previous movement: Cup. Pronation and Cup negate each other in an armwrestling setting.
 
 ## Radial Deviation
 
-This final movement is one of the most underutilized strengths in armwrestling (even among competitive athletes), but the proper use and development of it can mean the difference between a narrow loss and complete control & domination of your opponent.
+This final movement is one of the most underutilized strengths in armwrestling (even among competitive athletes), but the proper use and development of it can mean the difference between a narrow loss and complete control of your opponent.
 
 I’m referring to the subtle movement called “radial deviation” which occurs when you bend your wrist “upwards” or towards the thumb and the radius bone. 
 
@@ -108,6 +108,6 @@ While I've provided practical descriptions of each movement here, there are seve
 
 You can find those articles here:
 
-*Link to “what exactly cupping” articles
-*Link to pronation article
-*Link to rise article
+* Link to “what exactly cupping” articles
+* Link to pronation article
+* Link to rise article

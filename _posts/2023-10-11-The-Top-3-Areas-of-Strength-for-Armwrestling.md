@@ -39,9 +39,9 @@ So which hand movements are most relevant to the activity?
 
 In short, there are three key movements that armwrestlers prioritize above all else. While many argue about the relative importance of these three movements, they are in near-uniform agreement about their primacy regarding armwrestling-specific strengths. These three motions are:
 
-**1. Wrist Flexion**
-**2. Pronation**
-**3. Radial Deviation**
+1. **Wrist Flexion**
+2. **Pronation**
+3. **Radial Deviation**
 
 Let's go into more detail for each of these.
 

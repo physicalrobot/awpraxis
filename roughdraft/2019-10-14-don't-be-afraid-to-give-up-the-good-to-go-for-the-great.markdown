@@ -6,8 +6,9 @@ description:
 author: me
 # image: '/images/16.jpg'
 video_embed: 
-#tags: [lifestyle, video]
+tags: [lifestyle, video]
 tags_color: 'blue'
+featured: true
 ---
 
 > How do I become a stronger armwrestler?

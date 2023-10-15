@@ -7,6 +7,8 @@ author: me
 image: 
 #tags: [lifestyle, video]
 tags_color: '#b25642'
+featured: true
+permalink: '/top-3/'
 
 ---
 

@@ -3,7 +3,7 @@
 title: Armwrestling Praxis
 logo: /images/mevsisai_authorpic.png
 description: Mria is a multipurpose blog theme for Jekyll
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 
@@ -13,10 +13,10 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Start Here'
+      url: '/start/'      
     - title: 'Articles'
-      url: '/articles/'
+      url: '/blog/'
     #- title: 'Videos'
     #  url: '/videos/'
     - title: 'About'
@@ -108,8 +108,8 @@ social:
 - {icon: "twitter", link: "https://twitter.com"}
 - {icon: "facebook", link: "https://facebook.com"}
 #- {icon: "codepen", link: "https://codepen.io"}
-- {icon: "pinterest", link: "https://pinterest.com"}
-- {icon: "vimeo", link: "https://vimeo.com"}
+#- {icon: "pinterest", link: "https://pinterest.com"}
+#- {icon: "vimeo", link: "https://vimeo.com"}
 - {icon: "instagram", link: "https://instagram.com"}
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}

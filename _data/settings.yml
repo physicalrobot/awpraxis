@@ -38,7 +38,7 @@ menu__settings:
 # Hero Settings
 hero:
   enable: true
-  hero__title: Armwrestling theory, experience, and insights.
+  hero__title: Armwrestling Praxis
   hero__description: 
   hero__image: /images/mevsisai_authorpic.png
 

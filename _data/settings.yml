@@ -39,16 +39,16 @@ menu__settings:
 hero:
   enable: true
   hero__title: Armwrestling Praxis
-  hero__description: 
+  hero__description: Integrating armwrestling theory, practice, and insight.
   hero__image: /images/mevsisai_authorpic.png
 
 
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Alena Curtis
-  author__bio: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
-  author__avatar: /images/01-1.jpg
+  author__name: Shaildhish Rai
+  author__bio: Competitive armwrestler and writer.
+  author__avatar: /images/mevsisai_authorpic.png
 
 
 #-------------------------------
@@ -74,15 +74,15 @@ tag__settings:
 
 
 #-------------------------------
-# Author Section Settings
+# About AW Praxis Section Settings (This used to be the "About Author Section" hence all of the author variables)
 author__section:
   enable: true
-  author__section__title: Hello, my name is Alena. I’m reviewer and content creator.
-  author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
-  aurhor__section__button__text: More About Me
+  author__section__title: The Origins of Armwrestling Praxis
+  author__section__description: The word "Praxis" refers to a process whereby an idea or theory is applied in the real world. At Armwrestling Praxis, our mission is to create engaging, informative, and value-rich content that educates the wider armwrestling community and inspires action and application above all else.
+  aurhor__section__button__text: More About Us
   aurhor__section__button__link: /about
-  author__section__big__image: 
-  author__section__small__image: 
+  author__section__big__image: /images/Shot by Jackson Ruckar - 71.jpg
+  author__section__small__image: /images/Shot by Jackson Ruckar - 82.jpg
 
 
 #-------------------------------
@@ -100,8 +100,7 @@ mailchimp__settings:
 
 #-------------------------------
 # Footer Settings
-footer__description: Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve.
-
+footer__description: Integrating armwrestling theory, practice, and insight for all levels. Whether you're a newcomer looking to learn the fundamentals or a seasoned competitor climbing up the ranks, we've got you covered.
 
 # Social Links
 social:

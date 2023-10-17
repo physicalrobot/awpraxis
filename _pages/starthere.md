@@ -5,5 +5,5 @@ permalink: /start/
 image: 
 ---
 
-yee boi
+
 

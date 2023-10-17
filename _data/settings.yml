@@ -104,12 +104,13 @@ footer__description: Integrating armwrestling theory, practice, and insight for 
 
 # Social Links
 social:
-- {icon: "twitter", link: "https://twitter.com"}
-- {icon: "facebook", link: "https://facebook.com"}
+- {icon: "twitter", link: "https://twitter.com/awpraxis"}
+- {icon: "facebook", link: "https://www.facebook.com/profile.php?id=61552628064262"}
 #- {icon: "codepen", link: "https://codepen.io"}
 #- {icon: "pinterest", link: "https://pinterest.com"}
 #- {icon: "vimeo", link: "https://vimeo.com"}
-- {icon: "instagram", link: "https://instagram.com"}
+- {icon: "instagram", link: "https://www.instagram.com/armwrestlingpraxis/"}
+
 
 # Example of adding a new link to the footer - {icon: "instagram", link: "https://instagram.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -140,7 +141,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-#disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvodstudio-demo
+# disqus-identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------

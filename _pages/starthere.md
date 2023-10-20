@@ -5,12 +5,12 @@ permalink: /start/
 image: 
 background-image: 
 ---
+Welcome.
+
+If you're new here, this page will outline how to navigate this site depending on your interests and needs. 
 
 
-This page will outline how to navigate this site depending on your interests and needs. If you're new to arm wrestling or just want to learn the basics, be sure to read through this entire page.
-
-
-If you just want to dive straight-in then the [Articles]({{site.baseurl }}/blog/) page contains all posts sorted from the most recent to least. Also, you can go over to the [Home]({{site.baseurl }}/) page and click on any of the tags that catch your eye and start exploring related content.
+If you just want to dive straight-in then the [Articles]({{site.baseurl }}/blog/) page contains all posts sorted from the most recent to least. Also, you can go over to the [Home]({{site.baseurl }}/) page and click on any of the tags that catch your eye and start exploring related content or sift through the "Latest Posts" section for recent content.
 
 Either way, this site is set up to encourage free-form exploration and as more articles are written and published here you'll find creative ways to navigate through it.
 
@@ -20,9 +20,9 @@ Either way, this site is set up to encourage free-form exploration and as more a
 
 # Armwrestling Fundamentals Series
 
-The rest of this page will be dedicated to outlining a series of articles that take a brand-new, never set-their-elbow-on-a-table-before, beginner through the major aspects of organized armwrestling in a sequential manner. 
+The rest of this page will be dedicated to outlining a series of articles that take a brand-new, never set-their-elbow-on-a-table-before beginner through the major aspects of organized armwrestling in a sequential manner. 
 
-My intention with this is to efficiently onboard a newcomer who may have only seen popular clips or videos about armwrestling, but doesn't know how or where to get started on the first steps of their journey. 
+My goal with this series is to efficiently onboard newcomers who may have only armwrestled in casual settings and/or seen popular clips or videos about armwrestling, but don't how to get started on the first steps of their journey. 
 
 If that sounds like you, or you're just a curious person wanting to know more about the world of organized armwrestling, then scroll below and you'll find what you're looking for.
 

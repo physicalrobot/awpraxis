@@ -35,6 +35,10 @@
   --tr-color: var(--light-gray);
 
   --syntax-highlighting-background: #f3f3f3;
+
+
+  --logo-src: url("/images/artarmhandle.jpg");
+
 }
 
 :root[dark] {
@@ -69,5 +73,7 @@
   --th-color: #18181d;;
   --tr-color: #080b12;
 
-  --syntax-highlighting-background: #080b12;
+  --syntax-highlighting-background: #080b12; 
+
+
 }

@@ -7,7 +7,7 @@
         <div class="logo">
           <a class="logo__link" href="{{ site.baseurl }}/">
           {% if site.data.settings.logo %}
-            <img class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
+            <img id="logoImg" class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
           {% else %}
             {{ site.data.settings.title }}
           {% endif %}
@@ -44,9 +44,33 @@
 
           <div class="nav-button">
             {% if site.data.settings.color_scheme == "auto" %}
+
+            <!-- FUCK toggle logo -->
+            <script>
+              document.addEventListener("DOMContentLoaded", function() {
+                  let logoImg = document.getElementById("logoImg");
+                  let toggleMoon = document.querySelector(".toggle-moon");
+                  let toggleSun = document.querySelector(".toggle-sun");
+          
+                  toggleMoon.addEventListener("click", function() {
+                      logoImg.src = "{{ site.baseurl }}/images/mevsisai_authorpic.png";  // Update with the path to the dark mode logo
+                  });
+          
+                  toggleSun.addEventListener("click", function() {
+                      logoImg.src = "{{ site.baseurl }}/images/fistgrips_940x788.png";  // Update with the path to the light mode logo
+                  });
+              });
+          </script>
+<!-- 
+togglelogo this is the end of that code -->
+
             <div class="toggle-theme">
-              <div class="toggle-moon" title="Enable dark mode" aria-hidden="true"><i class="ion ion-ios-moon"></i></div>
-              <div class="toggle-sun" title="Enable light mode" aria-hidden="true"><i class="ion ion-ios-sunny"></i></div>
+              <div class="toggle-moon" title="Enable dark mode" aria-hidden="true">
+
+                <i class="ion ion-ios-moon"></i></div>
+              <div class="toggle-sun" title="Enable light mode" aria-hidden="true">
+
+                <i class="ion ion-ios-sunny"></i></div>
             </div>
             {% elsif site.data.settings.color_scheme == "light" or site.data.settings.color_scheme == "dark" %}
             {% else %}
